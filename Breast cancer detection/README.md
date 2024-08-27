@@ -30,7 +30,7 @@ To run this project, follow these steps:
 
 4. **Run the Jupyter Notebook**:
     ```
-    jupyter notebook Project_1_Breast_Cancer_Detection_Updated.ipynb
+    jupyter notebook Breast_Cancer_Detection.ipynb
     ```
 
 ## Project Structure
